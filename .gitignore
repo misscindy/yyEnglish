@@ -1,6 +1,12 @@
 #Crawler
+.DS_Store
 
 # Python + Django
+# Python + Django
+*.log
+*.log.*
+backend/backend/local_settings.py
+
 .idea
 backend/logs/*
 backend/media/upload/*

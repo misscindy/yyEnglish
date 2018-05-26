@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - AwesomeCache (5.0)
+  - BFKit-Swift (3.1.2)
+  - Charts (3.1.1):
+    - Charts/Core (= 3.1.1)
+  - Charts/Core (3.1.1)
+  - DeviceKit (1.7.0)
+  - ReachabilitySwift (3)
+  - Spring (1.0.3)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AwesomeCache
+  - BFKit-Swift
+  - Charts
+  - DeviceKit (~> 1.0)
+  - ReachabilitySwift (~> 3)
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift3`)
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AwesomeCache
+    - BFKit-Swift
+    - Charts
+    - DeviceKit
+    - ReachabilitySwift
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift3
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 8201b5c93bd7ebdf4cd18160bcde1e6e88c2be64
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  AwesomeCache: d8906955242173357caa0be0214d5e77dec32cc5
+  BFKit-Swift: c99096d56c4afb1291bd6f1660e33c96f9f69cc7
+  Charts: 90a4d61da0f6e06684c591e3bcab11940fe61736
+  DeviceKit: 6a5bdeb103c03757bb94aef1ccb01e08bc8ef4ee
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: e1bd7ec0ce5e3b8fdc8f1d5fa4ff3728e9c247e0
+
+COCOAPODS: 1.5.3
